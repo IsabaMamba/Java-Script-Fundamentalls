@@ -1,0 +1,61 @@
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+// var tweet = prompt("compose your tweet");
+// var tweetUnder140 = tweet.slice(0,140)
+// alert(tweetUnder140);
+
+// var name = prompt("What is your name?");
+// var Lname = name.toLowerCase();
+// // alert(name.toUpperCase());
+// alert("Hello, "+Lname.slice(0,1).toUpperCase()+Lname.slice(1));
+
+// var dogAge = prompt("Insert you dog ages");
+// humanAge = ((dogAge-2)*4)+21;
+// alert("Your dog ages "+dogAge+" in Human Ages ="+humanAge);
+
+// function getMilk(money){
+//     var numeberofBottles = Math.floor(money / 1.5);
+//     console.log("You can buy: "+numeberofBottles+" bottles of milk")
+    
+//     return money % 1.5;
+// }
+
+// var change = getMilk(4);
+// console.log(change);
+
+// function calcu
+
+// function calcuLife(){
+//     var yearsRemaining = 90-age;
+//     var days = yearsRemaining * 365;
+//     var weeks = yearsRemaining * 52;
+//     var months = yearsRemaining * 12;
+
+//     console.log("You have "+days+" days, "+weeks+" weeks, and "+months+" months left.")
+// }
+
+// calcuLife()
+//Create your function below this line.
+//The first parameter should be the weight and the second should be the height.
+
+
+
+
+/* If my weight is 65Kg and my height is 1.8m, I should be able to call your function like this:
+
+var bmi = bmiCalculator(65, 1.8); 
+
+bmi should equal 20 when it's rounded to the nearest whole number.
+
+*/
+
+// function bmiCalculator(){
+//     var height = prompt("Provide your height");
+//     var weight = prompt("Provide your weight");
+//     var bmi = Math.floor(weight /(height)**2);
+//     console.log("your BMI is :" +bmi);
+//     return bmi
+// }
+
+
+// bmiCalculator();
